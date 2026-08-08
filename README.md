@@ -1,6 +1,6 @@
 # Hi, I'm Satya 👋
 
-**Cloud & DevOps Engineer** specializing in AWS, Azure, and GCP — building secure, automated, and highly available infrastructure.
+**Cloud & DevOps Engineer** specializing in AWS, Azure, and GCP building secure, automated, and highly available infrastructure.
 
 - 🔭 Currently working as a **Cloud Engineer** supporting production infrastructure across AWS and Azure
 - ⚙️ I automate infrastructure provisioning, CI/CD pipelines, and Kubernetes deployments so teams ship faster and safer
