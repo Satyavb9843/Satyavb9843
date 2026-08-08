@@ -20,8 +20,3 @@
 ## Pinned Projects
 
 See the pinned repositories below for hands-on examples of Terraform modules, Kubernetes manifests, CI/CD pipelines, and automation scripts.
-
-## GitHub Stats
-
-![Satya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyavb9843&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyavb9843&layout=compact&hide_border=true)
