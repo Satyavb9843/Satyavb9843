@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Satya 👋
 
-<!--
-**Satyavb9843/Satyavb9843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud & DevOps Engineer** specializing in AWS, Azure, and GCP — building secure, automated, and highly available infrastructure.
 
-Here are some ideas to get you started:
+- 🔭 Currently working as a **Cloud Engineer** supporting production infrastructure across AWS and Azure
+- ⚙️ I automate infrastructure provisioning, CI/CD pipelines, and Kubernetes deployments so teams ship faster and safer
+- 🌱 5+ years across cloud engineering, SRE, and Linux systems administration
+- 📍 Based in Chicago, IL
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/satya-v88)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Stack
+
+- **Cloud:** AWS, Azure, Google Cloud Platform (GKE)
+- **Infrastructure as Code:** Terraform, Ansible, ARM Templates
+- **CI/CD & Containers:** Jenkins, GitHub Actions, Azure DevOps, Docker, Kubernetes (EKS/GKE), Helm, ArgoCD
+- **Languages:** Python, Bash, PowerShell
+- **Monitoring:** Amazon CloudWatch, Azure Monitor, Prometheus, Grafana
+- **Security:** IAM, Azure RBAC, HashiCorp Vault
+
+## Pinned Projects
+
+See the pinned repositories below for hands-on examples of Terraform modules, Kubernetes manifests, CI/CD pipelines, and automation scripts.
+
+## GitHub Stats
+
+![Satya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyavb9843&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyavb9843&layout=compact&hide_border=true)
