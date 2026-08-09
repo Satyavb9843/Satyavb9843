@@ -7,6 +7,7 @@
 - 🌱 5+ years across cloud engineering, SRE, and Linux systems administration
 - 📍 Based in Chicago, IL
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/satya-v88)
+- [View my portfolio]([https://satyavb9843.github.io/])
 
 ## Core Stack
 
